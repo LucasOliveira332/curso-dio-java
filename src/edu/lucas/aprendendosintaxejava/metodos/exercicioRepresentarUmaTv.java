@@ -1,4 +1,4 @@
-package edu.lucas.AprendendoSixtaxaJava.metodos;
+package edu.lucas.aprendendosintaxejava.metodos;
 
 public class exercicioRepresentarUmaTv {
     public static void main(String[] args) {

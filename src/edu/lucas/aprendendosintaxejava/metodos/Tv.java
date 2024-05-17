@@ -1,4 +1,4 @@
-package edu.lucas.AprendendoSixtaxaJava.metodos;
+package edu.lucas.aprendendosintaxejava.metodos;
 
 public class Tv {
     public boolean isOn = false;

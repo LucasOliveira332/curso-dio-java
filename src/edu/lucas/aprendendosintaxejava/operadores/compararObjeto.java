@@ -1,4 +1,4 @@
-package edu.lucas.AprendendoSixtaxaJava.operadores;
+package edu.lucas.aprendendosintaxejava.operadores;
 
 public class compararObjeto {
     public static void main(String[] args) {
